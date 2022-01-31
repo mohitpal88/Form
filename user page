@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>firstpage</title>
+</head>
+
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <td height="100px" width="50%" bgcolor="#635257">
+            </td>
+
+            <td width="50%" align="center" bgcolor="#635257">
+                <a href="#"> Home</a> &nbsp;&nbsp;
+                <a href="#"> Find Friends</a> &nbsp;&nbsp;
+                <a href="#"> Search</a> &nbsp;&nbsp;
+                <a href="#"> Refresh</a> &nbsp;&nbsp;
+                <a href="#">Status</a> &nbsp;&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td width="100%" height="100px" colspan="2" align="center" bgcolor="#565263">
+                <h1> Connect App </h1>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <table border="1" width="100%" height="600px">
+
+                    <tr>
+                        <td width="20%" align="center">
+                            <a href="#">Home</a>
+                        </td>
+                        <td width="80%"></td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="100px" colspan="2" align="center" bgcolor="#635257">
+                            copyright &copy; Mohit Pal 2022-2023
+                        </td>
+                    </tr>
+                </table>
+
+
+
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
