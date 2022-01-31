@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+</head>
+
+<body>
+    <table border="0" width="100%">
+        <tr>
+            <td height="100px" colspan="2" align="center" bgcolor="#5e3c17">
+                <h1>Connect APP</h1>
+            </td>
+        </tr>
+        <tr>
+            <td width="70%" height="550px" valign="top">
+                <img src="register22.png" alt="" width="100%" height="500px">
+                <hr>
+            </td>
+            <td width="30%" height="550px">
+                <form>
+                    <table border="0" width="100%">
+                        <tr>
+                            <td width="100" height=" 550" align="center">
+                                <img src="images.png" alt="">
+                                <p> <input type="text" name="fnamne" placeholder="Enter First name"></p>
+                                <p><input type="text" name="lname" placeholder="Enter Last name"></p>
+                                <p><input type="email" name="uid" placeholder="Enter Email id"></p>
+                                <p><input type="password" name="password" placeholder="Enter password"></p>
+                                <p> Gender <input type="radio" name="g" value="m">Male
+                                    <input type="radio" name="g" value="f">Female
+                                </p>
+                                <p><input type="submit" name="login" value="login"></p>
+                                <p> Aleardy have a account <a href="form1.html"> Log In</a></p>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%" height="100px" colspan="2" align="center" bgcolor="#5e3c17">
+                copyright &copy; 2022-2023 Mohit Pal
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
